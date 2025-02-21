@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[1]: 
+## This notebook free for educational reuse under Creative Commons CC BY License.
+## Created by Grant Glass for the 2024 Text Analysis Pedagogy Institute, with support from Constellate.
 
 
 ### Install Libraries ###
