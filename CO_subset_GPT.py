@@ -2,9 +2,6 @@
 # coding: utf-8
 
 # In[1]: 
-## I adapted the notebook created by Grant Glass for the 2024 Text Analysis Pedagogy Institute. 
-## The original notebook is free for educational reuse under Creative Commons CC BY License.
-
 
 ### Install Libraries ###
 get_ipython().system('pip install --upgrade pip')
