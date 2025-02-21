@@ -2,8 +2,8 @@
 # coding: utf-8
 
 # In[1]: 
-## This notebook free for educational reuse under Creative Commons CC BY License.
-## Created by Grant Glass for the 2024 Text Analysis Pedagogy Institute, with support from Constellate.
+## I adapted the notebook created by Grant Glass for the 2024 Text Analysis Pedagogy Institute. 
+## The original notebook is free for educational reuse under Creative Commons CC BY License.
 
 
 ### Install Libraries ###
