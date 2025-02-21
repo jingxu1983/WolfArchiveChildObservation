@@ -1,2 +1,2 @@
 # WolfArchiveChildObservation
-Code for analyzing Arthur Wolf's fieldnotes about Taiwanese childhood
+Code for analyzing Arthur Wolf's fieldnotes about Taiwanese childhood, focusing on the corpus of Child Observation (CO), naturalistic observations of children's social interactions. One file for LDA topic modeling analysis on the entire CO corpus, and the other file for using OpenAI API to analyze a subset of CO. I did not include the CO texts or its subset in the repository because these data belong to a private archive.
